@@ -49,7 +49,7 @@
 ### 🌱 Currently Learning  
 - **OpenGL**  
 - **PRML**  
-- **Information Theory **  
+- **Information Theory**  
 - **Manim** for mathematical animations  
 
 ---
