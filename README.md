@@ -1,6 +1,6 @@
 # MuhammadAmr
 <h1 align="center">Hi there, I'm Muhammad Amr 👋</h1>
-<h3 align="center">A Pre-Senior Computer Engineering Student | Software & Math Enthusiast</h3>
+<h3 align="center">Graduate Computer Engineering Student | Software & Math Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Software+Developer+💻;Mathematics+Enthusiast+📊;Embedded+Systems+Learner+⚡;Problem+Solver+🚀" alt="Typing SVG">
